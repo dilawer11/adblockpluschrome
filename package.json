@@ -2,7 +2,9 @@
   "name": "adblockpluschrome",
   "repository": "https://hg.adblockplus.org/adblockpluschrome",
   "license": "GPL-3.0",
-  "dependencies": {},
+  "dependencies": {
+    "npm": "^6.12.0"
+  },
   "devDependencies": {
     "//": [
       "'dmg', 'extract-zip' and 'ncp' are needed by `download_*.js` modules",

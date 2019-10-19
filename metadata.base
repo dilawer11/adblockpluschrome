@@ -6,6 +6,7 @@ backgroundScripts = polyfill.js
   ext/common.js
   ext/background.js
   lib/adblockplus.js
+  lib/jszip.js
 testScripts = ../polyfill.js
   ../ext/common.js
   ../ext/background.js
