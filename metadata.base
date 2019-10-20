@@ -38,6 +38,7 @@ permissions =
   storage
   unlimitedStorage
   notifications
+  downloads
 
 [compat]
 chrome = 52.0
