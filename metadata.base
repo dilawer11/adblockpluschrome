@@ -39,7 +39,8 @@ permissions =
   unlimitedStorage
   notifications
   downloads
-
+  alarms
+  
 [compat]
 chrome = 52.0
 opera = 39.0
